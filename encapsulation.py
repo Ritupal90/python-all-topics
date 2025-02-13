@@ -1,0 +1,14 @@
+"""python provides access to all the variable and methods globally
+       By using encapsulation we can restrict the variables and 
+       methods access globally by making is private or protected
+
+Note--1)=single underescore(protected)
+      2)=double underscore(private)"""
+
+
+# 1)=private 
+
+class person:
+    def __init__(self,__name,__age):
+        __name='ritu'
+        __age=20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
